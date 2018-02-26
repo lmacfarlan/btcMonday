@@ -1,0 +1,8 @@
+project_token: 6f56db14a879191537e657aa
+name: btcMonday
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
